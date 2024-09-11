@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hello World ;) 👋
+I'm a person who loves cats, they are so cute.
+I decided to start this because im going to go deep in learning how to code
+so any tips are welcome.
+
+have an amazing day😸
+
 
 <!--
 **KuraShiko/KuraShiko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
